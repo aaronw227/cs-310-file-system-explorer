@@ -1,0 +1,5 @@
+1.  You accept command line arguments in bash by adding positional parameters. 
+    Positional parameters are denoted with a dollar sign in front of them
+
+2.  For this program, I used read to get the name of the directory, readlink to get the path of files,
+    stat -c and numfmt to format the size of the file, and mimetype to get the file type for each file.
